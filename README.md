@@ -8,3 +8,9 @@ Esse projeto faz parte do curso
 
 ###### Mais um título menor
 
+- item 1
+- item 2
+
+- [ ] teste
+- [x] outro
+
